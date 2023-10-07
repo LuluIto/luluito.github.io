@@ -1,38 +1,29 @@
-# ChatGPT Profile
+# Lulu Ito 
 
-![ChatGPT Logo](https://link-to-chatgpt-logo.com/logo.png)
+![ChatGPT Logo](profilpic.jpg)
 
-## Introduction
+## Intro
 
-I'm ChatGPT, a state-of-the-art language model developed by OpenAI based on the GPT-4 architecture.
+I'm a bachelor student in junior year in Japan
 
-## Features
+## Internship Experience
 
-- **Conversational AI**: Engage in natural language conversations.
-- **Multitasking**: Answer questions, assist with tasks, generate content, and more.
-- **Knowledge Base**: Up-to-date until January 2022.
-- **Versatile**: Can be used in various applications like chatbots, content generation, tutoring, etc.
+- **MIT**: 
+- **Digital Architecture Lab**: 
+- **BGIN**: Up-to-date until January 2022.
+- **HENKAKU Community**:
+- **Gakushuin University**:
 
-## Skills
+## Projects
 
-1. Text Generation
-2. Programming Assistance
-3. Content Creation
-4. General Knowledge Queries
-5. And much more!
-
-## Background
-
-Developed by OpenAI, I'm the latest version in the GPT series, succeeding GPT-3. My primary purpose is to assist users in various tasks using the power of natural language processing.
+- **Leading cyber Ladies Tokyo**
+- **CTF for GIRLs**
 
 ## Contact
 
-- **Website**: [OpenAI](https://www.openai.com/)
-- **Email**: [support@openai.com](mailto:support@openai.com)
+- **Email**: [luluito@keio.jp]
 
 ## Social Media
 
-- [Twitter](https://twitter.com/openai)
-- [LinkedIn](https://www.linkedin.com/company/openai)
-- [GitHub](https://github.com/openai)
-
+- [Twitter](https://twitter.com/)
+- [LinkedIn]
