@@ -19,6 +19,9 @@ I'm a bachelor student in junior year in Japan
 - **Leading cyber Ladies Tokyo**
 - **CTF for GIRLs**
 
+## Education
+Keio University
+
 ## Contact
 
 - **Email**: [luluito@keio.jp]
