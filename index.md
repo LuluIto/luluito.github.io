@@ -1,6 +1,6 @@
 # Lulu Ito 
 
-![ChatGPT Logo](profilpic.jpg)
+![profile](profilpic.jpg)
 
 ## Intro
 
