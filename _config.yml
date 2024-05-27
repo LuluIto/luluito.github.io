@@ -15,7 +15,7 @@ timezone:
 # ↓ --------------------------
 
 title: Lulu Ito # the main title
-
+logo: /assets/img/favicons/favicon-16x16.png
 tagline: Lulu's blog # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
