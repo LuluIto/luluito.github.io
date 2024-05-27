@@ -10,9 +10,9 @@ Hi! I'm a Japanese student majored in computer science!
 
 ## Education
 - Keio University, Faculty of Policy Management majored in computer science(Expected graduation 2025)
-		Kokuryo Laboratory
-		ICAR, Uehara Laboratory
-		Data Platform Laboratory, Kawashima Laboratory 
+    - Kokuryo Laboratory
+	- ICAR, Uehara Laboratory
+	- Data Platform Laboratory, Kawashima Laboratory 
 
 ## Research Interest
 Probabilistic Computing, Probabilistic Programming, synthetic data, feature selection
