@@ -55,15 +55,78 @@ mermaid: true
 <br>
 
 ## Research Papers with Use Cases
-- architectures for visual processing (e.g., human body pose estimation) [(Link)](https://dspace.mit.edu/bitstream/handle/1721.1/96620/Tenenbaum_Picture%20A.pdf?sequence=1&isAllowed=y0)
+- Architectures for visual processing (e.g., human body pose estimation) [(Link)](https://dspace.mit.edu/bitstream/handle/1721.1/96620/Tenenbaum_Picture%20A.pdf?sequence=1&isAllowed=y0)
 <br>
-- computational neuroscience (e.g., auditory processing [(Link)](https://web.mit.edu/mcusi/www/basa-ccn/CogSci2018_adv.pdf) or spiking neural networks [(Link)](https://arxiv.org/pdf/1910.01059.pdf)) 
+- Computational neuroscience (e.g., auditory processing [(Link)](https://web.mit.edu/mcusi/www/basa-ccn/CogSci2018_adv.pdf) or spiking neural networks [(Link)](https://arxiv.org/pdf/1910.01059.pdf)) 
 <br>
 - Bayesian nonparametric models for multivariate time-series forecasting (e.g., macroeconomics or disease forecasting) [(Link)](https://proceedings.mlr.press/v84/saad18a/saad18a.pdf)
 <br>
-- explainable AI for perceptual systems (e.g., self-driving cars) [(Link)](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2018/EECS-2018-8.pdf)
+- Explainable AI for perceptual systems (e.g., self-driving cars) [(Link)](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2018/EECS-2018-8.pdf)
 <br>
-- probabilistic expert systems (e.g., medical diagnosis) [(Link)](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2018/EECS-2018-8.pdf)
+- Probabilistic expert systems (e.g., medical diagnosis) [(Link)](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2018/EECS-2018-8.pdf)
 <br>
-- stochastic superoptimization (e.g., to synthesize inference metaprograms) [(Link)](https://arxiv.org/pdf/1211.0557.pdf)
+- Stochastic superoptimization (e.g., to synthesize inference metaprograms) [(Link)](https://arxiv.org/pdf/1211.0557.pdf)
+<br>
+
+## Crosscat Paper
+- CrossCat: a fully Bayesian nonparametric method for analyzing heterogeneous, high dimensional data [(Link)](https://dl.acm.org/doi/10.5555/2946645.3007091)
+<br>
+
+## Tutorial
+- Gen.jl [(Link)](https://www.gen.dev/tutorials/bottom-up-intro/tutorial)
+<br>
+- Gen.JAX [(Link)](https://probcomp.github.io/genjax/genjax/notebooks.html)
+<br>
+
+## GenSQL(ex-InferenceQL) Notebooks
+- 確率コンピューティング入門 / Introduction to Probabilistic Programming, Fall 2022 [(Link)](https://44.200.189.145:8080/anomaly-detection-clinical-trials.adoc)
+<br>
+- InferenceQL Example Queries [(Link)](https://44.200.189.145:8081/example-queries-with-satellites.adoc)
+<br>
+- Stackoverflow Developer Survey [(Link)](http://44.200.189.145:8082/demo-DEIJ-stackoverflow-developer-survey-SPPL.adoc)
+<br>
+- Exploring Enriched CCES data with InferenceQL [(Link)](http://44.200.189.145:60083/cces_stlouis.adoc)
+<br>
+
+## Text Books
+- Stuart Russell, Peter Norvig - Aritificail Intelligence A Modern Approach, Fourth Edition(13. Probabilistic reasoning, 15. Probabilistic Programming)
+
+- Structure and Interpretation of Computer Programs  [(Link)](https://web.mit.edu/6.001/6.037/sicp.pdf)
+
+- An Introduction to Probabilistic Programming [(Link)](https://arxiv.org/pdf/1809.10756v2)
+
+## SMC Related Papers
+- Sequential Monte Carlo Steering of Large Language Models using Probabilistic Programs [(Link)](https://arxiv.org/abs/2306.03081)
+<br>
+- SMCP3: Sequential Monte Carlo with Probabilistic Program Proposals [(Link)](https://proceedings.mlr.press/v206/lew23a.html)
+<br>
+- Probabilistic Programming with Stochastic Probabilities [(Link)](https://dl.acm.org/doi/pdf/10.1145/3591290)
+<br>
+- Sequential Monte Carlo Learning for Time Series Structure Discovery [(Link)](https://openreview.net/pdf?id=msZrQQAlBA)
+<br>
+
+## Useful Papers to understand MIT probcomp team's work
+- PClean: Bayesian Data Cleaning at Scale with Domain-Specific Probabilistic Programming [(Link)](https://arxiv.org/pdf/2007.11838.pdf)
+<br>
+- Incremental Inference for Probabilistic Programs [(Link)](https://files.sri.inf.ethz.ch/website/papers/pldi18_interemental_inference_for_probabilistic_programs.pdf)
+<br>
+
+## Interactable webpages
+- gen finance [(Link)](https://probcomp.github.io/gen-finance/)
+<br>
+- satellite model [(Link)](https://inferenceql.github.io/inferenceql.analyses/html-pages/Satellites/streaming.html)
+<br>
+
+## Cognitive Science Related Papers
+- Inferring the Goals of Communicating Agents from Actions and Instructions [(Link)](https://arxiv.org/pdf/2306.16207.pdf)
+<br>
+- Online Bayesian Goal Inference for Boundedly-Rational Planning Agents  [(Link)](https://arxiv.org/abs/2006.07532)
+<br>
+- Language Model Cascades  [(Link)](https://arxiv.org/abs/2207.10342)
+<br>
+
+## Videos
+- Probabilistic Programming Tutorial Part 1 [(Link)](https://youtu.be/n08kGjReS74?si=leOCxmSysNodx0qf)
+<br>
+- Probabilistic Programming Tutorial Part 2 [(Link)](https://www.youtube.com/watch?v=O9kBeXn1MbU)
 <br>
