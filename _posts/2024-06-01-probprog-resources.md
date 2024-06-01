@@ -54,3 +54,16 @@ mermaid: true
 - Icard, Calibrating Generative Models: The Probabilistic Chomsky-Schutzenberger Hierarchy [(Link)](https://philpapers.org/archive/ICACGM.pdf)
 <br>
 
+## Research Papers with Use Cases
+- architectures for visual processing (e.g., human body pose estimation) [(Link)](https://dspace.mit.edu/bitstream/handle/1721.1/96620/Tenenbaum_Picture%20A.pdf?sequence=1&isAllowed=y0)
+<br>
+- computational neuroscience (e.g., auditory processing [(Link)](https://web.mit.edu/mcusi/www/basa-ccn/CogSci2018_adv.pdf) or spiking neural networks [(Link)](https://arxiv.org/pdf/1910.01059.pdf)) 
+<br>
+- Bayesian nonparametric models for multivariate time-series forecasting (e.g., macroeconomics or disease forecasting) [(Link)](https://proceedings.mlr.press/v84/saad18a/saad18a.pdf)
+<br>
+- explainable AI for perceptual systems (e.g., self-driving cars) [(Link)](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2018/EECS-2018-8.pdf)
+<br>
+- probabilistic expert systems (e.g., medical diagnosis) [(Link)](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2018/EECS-2018-8.pdf)
+<br>
+- stochastic superoptimization (e.g., to synthesize inference metaprograms) [(Link)](https://arxiv.org/pdf/1211.0557.pdf)
+<br>
