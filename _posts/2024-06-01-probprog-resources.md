@@ -5,8 +5,8 @@ author: Lulu
 date: 2024-06-01 13:33:00 +0800
 categories: [Blogging]
 tags: [probprog]
-pin: true
-math: true
+pin: false
+math: false
 mermaid: true
 ---
 ## Reccomended Reading
