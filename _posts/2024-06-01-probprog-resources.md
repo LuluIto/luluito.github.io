@@ -83,17 +83,18 @@ mermaid: true
 <br>
 - InferenceQL Example Queries [(Link)](https://44.200.189.145:8081/example-queries-with-satellites.adoc)
 <br>
-- Stackoverflow Developer Survey [(Link)](http://44.200.189.145:8082/demo-DEIJ-stackoverflow-developer-survey-SPPL.adoc)
+- Stackoverflow Developer Survey [(Link)](https://44.200.189.145:8082/demo-DEIJ-stackoverflow-developer-survey-SPPL.adoc)
 <br>
-- Exploring Enriched CCES data with InferenceQL [(Link)](http://44.200.189.145:60083/cces_stlouis.adoc)
+- Exploring Enriched CCES data with InferenceQL [(Link)](https://44.200.189.145:60083/cces_stlouis.adoc)
 <br>
 
 ## Text Books
 - Stuart Russell, Peter Norvig - Aritificail Intelligence A Modern Approach, Fourth Edition(13. Probabilistic reasoning, 15. Probabilistic Programming)
-
+<br>
 - Structure and Interpretation of Computer Programs  [(Link)](https://web.mit.edu/6.001/6.037/sicp.pdf)
-
+<br>
 - An Introduction to Probabilistic Programming [(Link)](https://arxiv.org/pdf/1809.10756v2)
+<br>
 
 ## SMC Related Papers
 - Sequential Monte Carlo Steering of Large Language Models using Probabilistic Programs [(Link)](https://arxiv.org/abs/2306.03081)
