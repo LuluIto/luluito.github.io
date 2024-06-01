@@ -1,5 +1,5 @@
 ---
-title: Ppobabilistic Programming Resources
+title: Probabilistic Programming Resources
 description: Resources to learn what probabilistic programming is.
 author: Lulu
 date: 2024-06-01 13:33:00 +0800
