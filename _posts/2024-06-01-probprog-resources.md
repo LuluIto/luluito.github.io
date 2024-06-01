@@ -24,5 +24,33 @@ mermaid: true
 <br>
 - Schaechtle, Freer, Shelby, Saad, Mansinghka, Bayesian AutoML for Databases via the InferenceQL Probabilistic Programming System [(Link)](https://openreview.net/pdf?id=ofp0vGDbRY)
 <br>
-- Schaechtle, Saad, Radul, and Mansinghka, Time Series Structure Discovery via Probabilistic Program Synthesis[(Link)](https://arxiv.org/pdf/1611.07051.pdf)
+- Schaechtle, Saad, Radul, and Mansinghka, Time Series Structure Discovery via Probabilistic Program Synthesis [(Link)](https://arxiv.org/pdf/1611.07051.pdf)
+<br>
+
+## Optional Reading
+
+- Chapter 1 of Pfeffer, Avi. (2016). Practical probabilistic programming. Simon and Schuster [(Link)](https://livebook.manning.com/book/practical-probabilistic-programming/chapter-1/)
+<br>
+- van de Meent, J. W., Paige, B., Yang, H., & Wood, F. (2021). An introduction to probabilistic programming. arXiv preprint arXiv:1809.10756v2. [(Link)](https://arxiv.org/pdf/1809.10756v2.pdf)
+<br>
+- "An Introduction to MCMC for Machine Learning" by Christophe Andrieu, Nando de Freitas, Arnaud Doucet & Michael I. Jordan. Machine Learning vol. 50, pp. 5–43 (2003) [(Link)](https://www.cs.ubc.ca/~arnaud/andrieu_defreitas_doucet_jordan_intromontecarlomachinelearning.pdf)
+<br>
+- "The Markov Chain Monte Carlo Revolution" by Persi Diaconis, Bulletin of the AMS, 2009. [(Link)](https://www.ams.org/journals/bull/2009-46-02/S0273-0979-08-01238-X/S0273-0979-08-01238-X.pdf)
+<br>
+- Chapter 7  ("Model Choice") of Christian Robert, The Bayesian Choice, 2nd ed., Springer, 2007. [(Link)](http://ndl.ethernet.edu.et/bitstream/123456789/27999/1/Christian%20P.%20Robert_2007.pdf)
+<br>
+- The Markov-chain Monte Carlo Interactive Gallery by Chi Feng. [(Link)](https://chi-feng.github.io/mcmc-demo/)
+<br>
+- Wang, An Intuitive Tutorial to Gaussian Processes Regression [(Link)](https://arxiv.org/pdf/2009.10862.pdf)
+<br>
+- Ghahramani, A Tutorial on Gaussian Processes [(Link)](https://danielcaraway.github.io/assets/reference/lect1gp.pdf)
+<br>
+- Orbanz and Teh, Bayesian Nonparametric Models [(Link)](https://groups.seas.harvard.edu/courses/cs281/papers/orbanz-teh-2010.pdf)
+<br>
+- Gershman and Blue, A Tutorial on Bayesian Nonparametric Models [(Link)](https://arxiv.org/pdf/1106.2697.pdf)
+<br>
+- Collins, Probabilistic Context-Free Grammars [(Link)](http://www.cs.columbia.edu/~mcollins/courses/nlp2011/notes/pcfgs.pdf)
+<br>
+- Icard, Calibrating Generative Models: The Probabilistic Chomsky-Schutzenberger Hierarchy [(Link)](https://philpapers.org/archive/ICACGM.pdf)
+<br>
 
