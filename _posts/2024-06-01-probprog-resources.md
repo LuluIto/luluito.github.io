@@ -37,7 +37,7 @@ mermaid: true
 <br>
 - "The Markov Chain Monte Carlo Revolution" by Persi Diaconis, Bulletin of the AMS, 2009. [(Link)](https://www.ams.org/journals/bull/2009-46-02/S0273-0979-08-01238-X/S0273-0979-08-01238-X.pdf)
 <br>
-- Chapter 7  ("Model Choice") of Christian Robert, The Bayesian Choice, 2nd ed., Springer, 2007. [(Link)](http://ndl.ethernet.edu.et/bitstream/123456789/27999/1/Christian%20P.%20Robert_2007.pdf)
+- Chapter 7  ("Model Choice") of Christian Robert, The Bayesian Choice, 2nd ed., Springer, 2007. [(Link)](https://errorstatistics.com/wp-content/uploads/2016/03/robert-20071.pdf)
 <br>
 - The Markov-chain Monte Carlo Interactive Gallery by Chi Feng. [(Link)](https://chi-feng.github.io/mcmc-demo/)
 <br>
@@ -49,7 +49,7 @@ mermaid: true
 <br>
 - Gershman and Blue, A Tutorial on Bayesian Nonparametric Models [(Link)](https://arxiv.org/pdf/1106.2697.pdf)
 <br>
-- Collins, Probabilistic Context-Free Grammars [(Link)](http://www.cs.columbia.edu/~mcollins/courses/nlp2011/notes/pcfgs.pdf)
+- Collins, Probabilistic Context-Free Grammars [(Link)](https://www.cs.columbia.edu/~mcollins/courses/nlp2011/notes/pcfgs.pdf)
 <br>
 - Icard, Calibrating Generative Models: The Probabilistic Chomsky-Schutzenberger Hierarchy [(Link)](https://philpapers.org/archive/ICACGM.pdf)
 <br>
