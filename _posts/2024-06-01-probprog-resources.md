@@ -14,9 +14,7 @@ Gordon, A. D., Henzinger, T. A., Nori, A. V., & Rajamani, S. K. (2014). Probabil
 <br>
 https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/fose-icse2014.pdf
 <br>
-Goodman, N. D. (2013). The principles and practice of probabilistic programming. ACM SIGPLAN Notices, 48(1), 399-402.
-<br>
-https://web.stanford.edu/~ngoodman/papers/POPL2013-abstract.pdf
+Goodman, N. D. (2013). The principles and practice of probabilistic programming. ACM SIGPLAN Notices, 48(1), 399-402. [link](https://web.stanford.edu/~ngoodman/papers/POPL2013-abstract.pdf)
 <br>
 "Generative models" and "Conditioning" sections of Probabilistic Models of Cognition by Noah D. Goodman, Joshua B. Tenenbaum, and The ProbMods Contributors.
 <br>
