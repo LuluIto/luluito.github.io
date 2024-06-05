@@ -1,5 +1,5 @@
 ---
-title: Differential Provacy
+title: Differential Privacy
 description: Fisrt research on what differential privacy is.
 author: Lulu
 date: 2024-06-05 13:33:00 +0800
