@@ -3,7 +3,7 @@ title: Probabilistic Programming Resources
 description: Resources to learn what probabilistic programming is.
 author: Lulu
 date: 2024-06-01 13:33:00 +0800
-categories: [Blogging]
+categories: [Resource]
 tags: [probprog]
 pin: false
 math: false

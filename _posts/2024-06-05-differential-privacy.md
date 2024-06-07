@@ -3,13 +3,14 @@ title: Practicality and Limitation of Differential Privacy
 description: First research on differential privacy.
 author: Lulu
 date: 2024-06-05 13:33:00 +0800
-categories: [Blogging]
+categories: [Survey]
 tags: [privacy]
 pin: false
 math: false
 mermaid: true
 ---
 # 1. Intro
+
 * 差分プライバシーとは
     * プライバシー保護の強さを定量的に評価する安全性基準であり、適度なプライバシー保護の実現に有用な概念である。
     * 差分プライバシーの安全基準は、「特定の攻撃モデルに依存せず無条件で成立する」安全性に基づいている。
@@ -28,6 +29,7 @@ mermaid: true
     * 現代：「忘れられる権利」、「追加拒否権」も追加
 
 # 2. プライバシーを保護する枠組みの全体像
+
 1. 原理：プライバシーの概念やその保護のあり方の理念
 2. ルール：国内法や国際的な取り決め
 3. 手段：プライバシー保護のために実装される技術や仕組み
@@ -68,3 +70,9 @@ mermaid: true
 # 3. プライバシー保護のための数理的手法
 
 ![privacy protection methods](https://scrapbox.io/files/66629e66d16b87001d66e6ab.png)
+
+
+
+
+ # Reference
+望ましいプライバシー保護のあり方を巡って: 差分プライバシーの有用性と限界, 菅 和聖 [(Link)](https://www.imes.boj.or.jp/research/papers/japanese/kk41-4-4.pdf)
