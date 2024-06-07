@@ -32,4 +32,4 @@ mermaid: true
 2. ルール：国内法や国際的な取り決め
 3. 手段：プライバシー保護のために実装される技術や仕組み
 
-![overall of differential privacy]()
+![overall of differential privacy](https://scrapbox.io/files/665c7a60018ad6001c6d81bf.png)
