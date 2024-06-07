@@ -32,7 +32,7 @@ mermaid: true
 2. ルール：国内法や国際的な取り決め
 3. 手段：プライバシー保護のために実装される技術や仕組み
 
-![overall of differential privacy](https://scrapbox.io/files/665c7a60018ad6001c6d81bf.png)
+![overall of differential privacy](https://scrapbox.io/files/66632265e982cf001c1baebf.png)
 
 ### プライバシーの概念とその保護の原理
 * 経済協力開発機構(Organisation for Economic Co-operation and Development: OECD)のプライバシー・ガイドライン(1980)
